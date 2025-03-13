@@ -14,7 +14,7 @@ public class BibliotecaView {
 	private void initialize() {
 		
 		frmBiblioteca = new JFrame();
-		
+		frmBiblioteca.setVisible(true);
 		
 	}
 	

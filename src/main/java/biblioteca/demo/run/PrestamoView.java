@@ -1,5 +1,5 @@
 package biblioteca.demo.run;
 
-public class Socio {
+public class PrestamoView {
 
 }
